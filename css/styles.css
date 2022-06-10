@@ -19,7 +19,8 @@ h3 {
   margin-top: 5%;
   font-style: italic;
   color: #82040e;
-  font-size: 15px;
+  font-size: 13px;
+  font-family: "helvetica", sans-serif;
 }
 b {
   color: #82040e;
@@ -42,9 +43,3 @@ hr {
   width: 250px;
   color: #82040e;
 }
-/* #flower {
-  float: left;
-  position: fixed;
-  margin-bottom: 300px;
-  padding: 0;
-} */
