@@ -9,7 +9,7 @@ h1 {
   margin-bottom: -10px;
   padding: 0;
   position: relative;
-  margin-left: 230px;
+  margin-left: 280px;
   color: #82040e;
   font-size: 50px;
 }
@@ -24,8 +24,6 @@ i {
   border: solid 1px;
   width: 550px;
   color: #400014;
-  /* position: fixed; */
-  /* margin-top: 15%; */
   margin: auto;
   height: 400px;
   overflow: auto;
@@ -35,9 +33,3 @@ hr {
   width: 250px;
   color: #82040e;
 }
-/* #flower {
-  float: left;
-  position: fixed;
-  margin-bottom: 300px;
-  padding: 0;
-} */
